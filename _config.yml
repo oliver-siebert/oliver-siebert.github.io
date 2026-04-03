@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wegpage of Oliver Siebert"
+title                    : "Webpage of Oliver Siebert"
 title_separator          : "-"
 name                     : &name "Oliver Siebert"
 description              : &description "Wegpage of Oliver Siebert"   # Update this with a general description of your site, this is the default if not overridden by a page
