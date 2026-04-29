@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Oliver Siebert"
   pronouns         : # example: "she/her"  
   bio              : "Krener Assistant Professor"
@@ -192,6 +192,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - gems
 keep_files:
   - .git
   - .svn

@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+
+Academic Positions
+======
+* **Krener Assistant Professor (Postdoc)**, *UC Davis* (Jan 2025 – Present)
+  * Mentor: Prof. Bruno Nachtergaele
+* **Wissenschaftlicher Mitarbeiter (Postdoc)**, *University of Tübingen* (Oct 2021 – Dec 2024)
+  * Mentor: Prof. Marius Lemm
+* **Postdoctoral Researcher**, *EPFL* (Apr 2021 – Sep 2021)
+  * Mentor: Prof. Marius Lemm
+* **Research Assistant (PhD Student)**, *FSU Jena* (Oct 2015 – Mar 2021)
+  * Advisor: Prof. David Hasler
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Mathematics, Friedrich-Schiller University of Jena, 2021
+  * Thesis [On Thermal Ionization for Open Quantum Systems](http://dx.doi.org/10.22032/dbt.48175)
+* M.Sc. in Mathematics, Friedrich-Schiller University of Jena and WWU Münster, 2015
+* B.Sc. in Mathematics, Friedrich-Schiller University of Jena, 2013
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
