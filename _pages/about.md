@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Welcome to my website! I'm a Krener Assistant Professor (Postdoc) at UC Davis, working with [Bruno Nachtergaele](https://www.math.ucdavis.edu/~bxn/). My research lies in the field of mathematical physics and applied analysis in quantum theory:
+I'm a Krener Assistant Professor (Postdoc) at UC Davis, working with [Bruno Nachtergaele](https://www.math.ucdavis.edu/~bxn/). My research lies in the field of mathematical physics and applied analysis in quantum theory:
 - many-body theory: continuous systems, Lieb-Robinson bounds, applications to quantum information, Bose gases
 - non-relativistic QED at zero and positive temperature (open systems)
 - spectral theory, functional analysis, operator algebras
