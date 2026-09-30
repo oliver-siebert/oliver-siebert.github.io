@@ -4,6 +4,9 @@ title: Talks and Presentations
 permalink: /talks/
 ---
 
+* **The Mathematical Roads to QFT, RIMS, Kyōto** (Jun 2026)<br>
+  *Hamiltonian Learning with Continuous Fermions*
+  
 * **Western States Mathematical Physics Meeting 2026, UC Irvine** (May 2026)<br>
   *Hamiltonian Learning with Continuous Fermions*
 
