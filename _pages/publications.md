@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Preprints
+* **Discontinuity of Continuum Fermion Dynamics**<br>
+  [arXiv](https://arxiv.org/abs/2609.34402)
 * **Learning Coulomb Potentials and Beyond with Fermions in Continuous Space**<br>
   with A. Bluhm, M. Lemm and T. Möbus<br>
   [arXiv](https://arxiv.org/abs/2510.08471)
